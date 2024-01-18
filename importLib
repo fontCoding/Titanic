@@ -1,0 +1,8 @@
+import pandas as pd  # Biblioteca Pandas: Manipulação e análise de dados tabulares.
+import matplotlib.pyplot as plt  # Biblioteca Matplotlib: Visualização de dados.
+from sklearn import ...  # Biblioteca Scikit-learn: Algoritmos de aprendizado de máquina.
+import numpy as np  # Biblioteca NumPy: Suporte para arrays multidimensionais e funções matemáticas.
+import tensorflow as tf  # Biblioteca TensorFlow: Desenvolvimento de modelos de aprendizado profundo.
+import torch  # Biblioteca PyTorch: Desenvolvimento de modelos de aprendizado profundo.
+import seaborn as sns  # Biblioteca Seaborn: Visualização de dados estatísticos.
+
